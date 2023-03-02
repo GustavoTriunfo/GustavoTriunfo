@@ -6,14 +6,33 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h3 align="center">
+<h2 align="center">
     - Hey there! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+</h2>
    <div align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/012/634/805/original/art-deco-outline-stroke-in-golden-color-for-classy-and-luxury-style-premium-vintage-line-art-design-element-free-png.png" width="600" height="200"/>
 </div>
 
 
 ### :woman_technologist: About Me :
-I am a Programmer Student from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://www.worldatlas.com/r/w768/img/flag/br-flag.jpg" width="30">
+- I am a student of Systems Analysis and Development at Centro Universitário Facens, Sorocaba Brazil  <img src="https://www.worldatlas.com/r/w768/img/flag/br-flag.jpg" width="30">
+
+- 3rd semester ☀
+
+- I like Back end & Front end programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- Back end: I code in Java and C#..................................................................
+(I have plans to further improve my knowledge in these languages).
+
+- Front end: I'm studying HTML/CSS..................................................................
+(Soon I want to learn JavaScript/React/Angular)
+
+- In game development I'm learning Unity..................................................................
+(This is an area that interests me a lot).
+
+- I've also used databases in my Java and C# projects, such as SQL Server/SQLite
+<h2 align="center">
+    - Repositories/Description
+</h2>
+- Minecraft_Server_Cadastro: 
