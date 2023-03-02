@@ -16,4 +16,4 @@
 
 
 ### :woman_technologist: About Me :
-I am a Programmer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a Programmer Student from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://www.worldatlas.com/r/w768/img/flag/br-flag.jpg" width="30">
