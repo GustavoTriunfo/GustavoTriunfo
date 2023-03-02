@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif" width="530" height="500"/>
+  <img src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif" width="430" height="400"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gustavo-costa-de-andrade-7b255b20b/">
