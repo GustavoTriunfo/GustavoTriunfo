@@ -51,8 +51,4 @@ https://github.com/GustavoTriunfo/Pokemon-battle-simulator.git
 
 <img src="https://i.ibb.co/wBmv3hY/tela-Principal.gif" width="674" height="398"/>
 
-<a href='https://www.linkpicture.com/view.php?img=LPic6401ff0c1e8b6453463384'><img src='https://www.linkpicture.com/q/telaVencedorPronto.gif' type='image'></a>
-
-<img src="https://i.ibb.co/3yWZB3T/telaRun.gif" width="658" height="408"/>
-
 In this project I developed a program that simulates Pokemon battles. I used Java Swing to create the screens and implemented many features. The intention of this project is to develop Java programming logic skills, so I looked for ways to set the game with music and sound effects (which is not easy to find in forums). I believe the structure can still be developed, perhaps use project patterns or good programming practices. If you want to help finish the remaining screens and implement new features for the game, feel free. More details available on the repository readme.md.
