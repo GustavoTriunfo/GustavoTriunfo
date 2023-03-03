@@ -36,9 +36,9 @@
     - Repositories/Description
 </h2>
 <h3 >
-  - Minecraft_Server_Cadastro:
+  - Minecraft-server-cadastro:
 </h3>
- https://github.com/GustavoTriunfo/Minecraft_Server_Cadastro.git
+https://github.com/GustavoTriunfo/Minecraft-server-cadastro.git
 <img src="https://i.ibb.co/2N5FGTM/Captura-de-Tela-553.png" width="800" height="425"/>
 
 This was a really cool project to build. I used Java Swing to create the GUI and for responsiveness I implemented it with an intelligent Back end. In this project you can register as a player in the system through the SQL Server database.
