@@ -61,3 +61,12 @@ https://github.com/GustavoTriunfo/Shuffled-words-console-game.git
 <a href='https://www.linkpicture.com/view.php?img=LPic64020a75994cf203982167'><img src='https://www.linkpicture.com/q/MyThumb.jpg' type='image' width="800" height="450"> </a>
 
 I developed this program as a final project of the object oriented programming course with Java offered by ITA (Instituto Tecnológico de Aeronáutica). In this project I made a console game for the Eclipse IDE. There are three levels of difficulty, and each of them has its own bank of words that are compatible with the respective level. The player's intention is to hit a set number of words without missing all available chances. Note: there are easter eggs in this game. Are you able to take the references and beat the game? I implemented several console font colors, theme music, sound effects and cool screen prints on the console. I am not the composer of the songs, the right to them is reserved to Toby Fox.
+
+<h3 >
+  - C-Sharp-Calculator:
+</h3>
+https://github.com/GustavoTriunfo/C-Sharp-Calculator.git
+
+<a href='https://www.linkpicture.com/view.php?img=LPic64038b3766fa1279389108'><img src='https://www.linkpicture.com/q/Calculadora-2022-12-14-11-38-31_Trim.gif' type='image' width="300" height="424"> <a href='https://www.linkpicture.com/view.php?img=LPic64038b3766fa1279389108'><img src='https://www.linkpicture.com/q/Calculadora-2022-12-14-11-30-41_Trim.gif' type='image' width="300" height="424"></a> </a>
+
+This program was developed as a final project of the CTEDS course (Technological Training in Software Engineering and Development), offered by Samsung and Poli-USP in 2022. My group created the Back end in C#/XAML.CS and the Front end in XAML( this in the WPF framework). We used the MVC (Model View Controller) format to create the structure of the project. We also use SQLite for data persistence. More details in the project's readme.md.
