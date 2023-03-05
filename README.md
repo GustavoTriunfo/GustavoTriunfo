@@ -70,3 +70,12 @@ https://github.com/GustavoTriunfo/C-Sharp-Calculator.git
 <a href='https://www.linkpicture.com/view.php?img=LPic64038b3766fa1279389108'><img src='https://www.linkpicture.com/q/Calculadora-2022-12-14-11-38-31_Trim.gif' type='image' width="300" height="424"> <a href='https://www.linkpicture.com/view.php?img=LPic64038b3766fa1279389108'><img src='https://www.linkpicture.com/q/Calculadora-2022-12-14-11-30-41_Trim.gif' type='image' width="300" height="424"></a> </a>
 
 This program was developed as a final project of the CTEDS course (Technological Training in Software Engineering and Development), offered by Samsung and Poli-USP in 2022. My group created the Back end in C#/XAML.CS and the Front end in XAML( this in the WPF framework). We used the MVC (Model View Controller) format to create the structure of the project. We also use SQLite for data persistence. More details in the project's readme.md.
+
+<h3 >
+  - projeto-processo-seletivo-webvoto:
+</h3>
+https://github.com/GustavoTriunfo/projeto-processo-seletivo-webvoto.git
+
+<a href='https://www.linkpicture.com/view.php?img=LPic6404a1a68bd861817938308'><img src='https://www.linkpicture.com/q/Captura-de-Tela-556.png' type='image' width="800" height="431"></a>
+
+This project was really cool to do, because it was the first time I made an implementation that could communicate with external APIs in C#. In coding there is a sequence of tasks that were charged in the process. First, you need to register in the system to receive an access token (#1 API). Then, with this token received, the service request is made (#2 API). Next, it is necessary to verify which is the service or services to be executed. Finally check if the response to the service was correct.(#3 API).
