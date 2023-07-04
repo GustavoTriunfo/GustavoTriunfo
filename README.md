@@ -41,7 +41,7 @@
 </h3>
 https://github.com/GustavoTriunfo/Aliens-Mini-Game.git
 
-<img src="https://i.ibb.co/XsRqfdn/ezgif-3-1030e05bf8.gif" width="800" height="454"/>
+<img src="https://i.ibb.co/YfFLzmV/Razor-New-Gif.gif" width="800" height="454"/>
 
 This is by far the most advanced project I've done using Java Swing. I present to you my game "Aliens Mini Game"! All programming logic was done in the Java language. All the structure and composition of the scenarios was done by me, but all the arts, songs and sound effects were created by other artists. If you want to know more about the code structure and want to play, visit my repository for more information.
 <h3 >
