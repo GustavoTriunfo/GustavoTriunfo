@@ -18,7 +18,7 @@
 ### :woman_technologist: About Me :
 - I am a student of Systems Analysis and Development at Centro Universitário Facens, Sorocaba Brazil  <img src="https://www.worldatlas.com/r/w768/img/flag/br-flag.jpg" width="30">
 
-- 3rd semester ☀
+- 4rd semester ☀
 
 - I like Back end & Front end programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
