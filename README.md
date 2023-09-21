@@ -50,7 +50,8 @@ This is by far the most advanced project I've done using Java Swing. I present t
   - Minecraft-server-cadastro:
 </h3>
 https://github.com/GustavoTriunfo/Minecraft-server-cadastro.git
-<img src="https://i.ibb.co/2N5FGTM/Captura-de-Tela-553.png" width="800" height="425"/>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vQGt2Pk/68747470733a2f2f692e6962622e636f2f324e354647544d2f436170747572612d64652d54656c612d3535332e706e67.png" alt="68747470733a2f2f692e6962622e636f2f324e354647544d2f436170747572612d64652d54656c612d3535332e706e67" border="0"></a>
 
 This was a really cool project to build. I used Java Swing to create the GUI and for responsiveness I implemented it with an intelligent Back end. In this project you can register as a player in the system through the SQL Server database.
 If you want to know, download or make suggestions for improvement, just enter the repository link. There are more details about the structure of the project.
@@ -60,7 +61,7 @@ If you want to know, download or make suggestions for improvement, just enter th
 </h3>
 https://github.com/GustavoTriunfo/Pokemon-battle-simulator.git
 
-<img src="https://i.ibb.co/wBmv3hY/tela-Principal.gif" width="674" height="398"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JRdb10R/pk.gif" alt="pk" border="0"></a>
 
 In this project I developed a program that simulates Pokemon battles. I used Java Swing to create the screens and implemented many features. The intention of this project is to develop Java programming logic skills, so I looked for ways to set the game with music and sound effects (which is not easy to find in forums). I believe the structure can still be developed, perhaps use project patterns or good programming practices. If you want to help finish the remaining screens and implement new features for the game, feel free. More details available on the repository readme.md.
 
