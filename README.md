@@ -88,6 +88,6 @@ This program was developed as a final project of the CTEDS course (Technological
 </h3>
 https://github.com/GustavoTriunfo/projeto-processo-seletivo-webvoto.git
 
-<a href='https://www.linkpicture.com/view.php?img=LPic6404a1a68bd861817938308'><img src='https://www.linkpicture.com/q/Captura-de-Tela-556.png' type='image' width="800" height="431"></a>
+<a href="https://ibb.co/5rR157f"><img src="https://i.ibb.co/JvsczhM/code.png" alt="code" border="0"></a>
 
 This project was really cool to do, because it was the first time I made an implementation that could communicate with external APIs in C#. In coding there is a sequence of tasks that were charged in the process. First, you need to register in the system to receive an access token (#1 API). Then, with this token received, the service request is made (#2 API). Next, it is necessary to verify which is the service or services to be executed. Finally check if the response to the service was correct.(#3 API). For all the methods that were possible, I did the unit tests to verify the validity of the execution and to have a reasonable safety margin.
