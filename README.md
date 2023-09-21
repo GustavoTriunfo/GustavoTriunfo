@@ -61,7 +61,7 @@ If you want to know, download or make suggestions for improvement, just enter th
 </h3>
 https://github.com/GustavoTriunfo/Pokemon-battle-simulator.git
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/JRdb10R/pk.gif" alt="pk" border="0"></a>
+<a href="https://ibb.co/HdpTBJv"><img src="https://i.ibb.co/Ry4TY5n/pk-1.gif" alt="pk-1" border="0"></a>
 
 In this project I developed a program that simulates Pokemon battles. I used Java Swing to create the screens and implemented many features. The intention of this project is to develop Java programming logic skills, so I looked for ways to set the game with music and sound effects (which is not easy to find in forums). I believe the structure can still be developed, perhaps use project patterns or good programming practices. If you want to help finish the remaining screens and implement new features for the game, feel free. More details available on the repository readme.md.
 
