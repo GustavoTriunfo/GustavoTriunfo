@@ -70,7 +70,7 @@ In this project I developed a program that simulates Pokemon battles. I used Jav
 </h3>
 https://github.com/GustavoTriunfo/Shuffled-words-console-game.git
 
-<a href='https://www.linkpicture.com/view.php?img=LPic64020a75994cf203982167'><img src='https://www.linkpicture.com/q/MyThumb.jpg' type='image' width="800" height="450"> </a>
+<a href="https://ibb.co/2KBqTy2"><img src="https://i.ibb.co/cTdJj15/hf-1.jpg" alt="hf-1" border="0"></a>
 
 I developed this program as a final project of the object oriented programming course with Java offered by ITA (Instituto Tecnológico de Aeronáutica). In this project I made a console game for the Eclipse IDE. There are three levels of difficulty, and each of them has its own bank of words that are compatible with the respective level. The player's intention is to hit a set number of words without missing all available chances. Note: there are easter eggs in this game. Are you able to take the references and beat the game? I implemented several console font colors, theme music, sound effects and cool screen prints on the console. I am not the composer of the songs, the right to them is reserved to Toby Fox.
 
