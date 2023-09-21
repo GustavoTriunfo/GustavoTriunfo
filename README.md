@@ -43,7 +43,7 @@
 </h3>
 https://github.com/GustavoTriunfo/Aliens-Mini-Game.git
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/RQ3vNr5/gif-Razor-1.gif" alt="gif-Razor-1" border="0"></a>
+<a href="https://ibb.co/YDFVCZ3"><img src="https://i.ibb.co/PTvVLQN/gif-Razor-4.gif" alt="gif-Razor-4" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
 
 This is by far the most advanced project I've done using Java Swing. I present to you my game "Aliens Mini Game"! All programming logic was done in the Java language. All the structure and composition of the scenarios was done by me, but all the arts, songs and sound effects were created by other artists. If you want to know more about the code structure and want to play, visit my repository for more information.
 <h3 >
@@ -51,7 +51,7 @@ This is by far the most advanced project I've done using Java Swing. I present t
 </h3>
 https://github.com/GustavoTriunfo/Minecraft-server-cadastro.git
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/vQGt2Pk/68747470733a2f2f692e6962622e636f2f324e354647544d2f436170747572612d64652d54656c612d3535332e706e67.png" alt="68747470733a2f2f692e6962622e636f2f324e354647544d2f436170747572612d64652d54656c612d3535332e706e67" border="0"></a>
+<a href="https://ibb.co/JqNnVGD"><img src="https://i.ibb.co/xYyhWBx/hh.png" alt="hh" border="0"></a>
 
 This was a really cool project to build. I used Java Swing to create the GUI and for responsiveness I implemented it with an intelligent Back end. In this project you can register as a player in the system through the SQL Server database.
 If you want to know, download or make suggestions for improvement, just enter the repository link. There are more details about the structure of the project.
