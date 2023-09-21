@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif" width="430" height="400"/>
+  
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kQxbFfR/myGit.gif" alt="myGit" border="0"></a>
+  
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gustavo-costa-de-andrade-7b255b20b/">
