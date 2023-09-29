@@ -70,11 +70,10 @@ In this project I developed a program that simulates Pokemon battles. I used Jav
   - Pokémon Click!:
 </h3>
 https://github.com/GustavoTriunfo/pokemonclick.git
-<br> or the GitHub Page:
-https://gustavotriunfo.github.io/pokemonclick/
-<br>
+<br> or the GitHub Page: https://gustavotriunfo.github.io/pokemonclick/
 
-<a href="https://ibb.co/Y0PGVhn"><img src="https://i.ibb.co/km5FPXb/Pok-mon-Click-1.gif" alt="Pok-mon-Click-1" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/km5FPXb/Pok-mon-Click-1.gif" alt="Pok-mon-Click-1" border="0" /></a>
 
 <h3 >
   - Shuffled-words-console-game:
