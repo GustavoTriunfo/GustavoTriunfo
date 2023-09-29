@@ -72,8 +72,9 @@ In this project I developed a program that simulates Pokemon battles. I used Jav
 https://github.com/GustavoTriunfo/pokemonclick.git
 <br> or the GitHub Page: https://gustavotriunfo.github.io/pokemonclick/
 
-
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/km5FPXb/Pok-mon-Click-1.gif" alt="Pok-mon-Click-1" border="0" /></a>
+
+This is a really cool project that I developed in HTML, CSS and JavaScript. It's a game where the objective is to unlock Pokémons from random Pokéballs. You need to click a certain number of times to open them. A Pokédex was also developed where there are 60 Pokémon to be collected. It has Undertale songs, sound effects and graphic arts faithful to the theme.
 
 <h3 >
   - Shuffled-words-console-game:
