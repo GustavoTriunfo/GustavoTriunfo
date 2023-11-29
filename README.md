@@ -39,6 +39,16 @@
 </h2>
 
 <h3 >
+  - Minecraft Chess Site:
+</h3>
+https://github.com/GustavoTriunfo/Minecraft-Chess.git
+<br> or the GitHub Page: https://gustavotriunfo.github.io/Minecraft-Chess/
+
+<a href="https://ibb.co/JmYpBZV"><img src="https://i.ibb.co/xXngCZW/Captura-de-Tela-863.png" alt="Captura-de-Tela-863" border="0"></a>
+
+This is a project in html, css and javascript that simulates a chess board game in the style of the game Minecraft. Several official game rules such as piece movements have been implemented but there is still a lot to do. If you like chess and want to continue developing this project, you can create an issue or pull request. Some important items that are pending still need to be done. Like the possible movements of each piece when clicked. The check on the king... and even the responsiveness of the code for a functional mobile version.
+
+<h3 >
   - Aliens-Mini-Game:
 </h3>
 https://github.com/GustavoTriunfo/Aliens-Mini-Game.git
