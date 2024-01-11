@@ -42,7 +42,7 @@
   - Minecraft Chess Site:
 </h3>
 https://github.com/GustavoTriunfo/Minecraft-Chess.git
-<br> or the GitHub Page: https://gustavotriunfo.github.io/Minecraft-Chess/
+<br> or the GitHub Page (the responsiveness only works in PC): https://gustavotriunfo.github.io/Minecraft-Chess/
 
 <a href="https://ibb.co/JmYpBZV"><img src="https://i.ibb.co/xXngCZW/Captura-de-Tela-863.png" alt="Captura-de-Tela-863" border="0"></a>
 
