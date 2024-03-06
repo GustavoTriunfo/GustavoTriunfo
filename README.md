@@ -39,7 +39,7 @@
 </h2>
 
 <h3 >
-  - Minecraft Chess Site:
+  - Minecraft-Chess-Site:
 </h3>
 https://github.com/GustavoTriunfo/Minecraft-Chess.git
 <br> or the GitHub Page (the responsiveness only works in PC): https://gustavotriunfo.github.io/Minecraft-Chess/
